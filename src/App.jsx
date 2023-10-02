@@ -4,7 +4,6 @@ import { Header } from './components/Header';
 import { Post } from './components/Post';
 import { Sidebar } from './components/sidebar';
 import './global.css';
-let abc = 'a'
 const posts = [
   {
     id: 1,
